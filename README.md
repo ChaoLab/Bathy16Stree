@@ -2,10 +2,10 @@
 Methods to make 16S rRNA gene tree of Bathyarchaeota and intermediate files
 
 Files 
-1. Original fastaCKY_BS90_kgf.de.fasta
-2. Trimmed alignmentCKY_BS90_kgf.de.sina.trim5.fasta
-3. Tree fileS-6WHuekat59NLLehFrMWA_newick.txt.mdf
-4. Assignment of subgroupsseqs_subgroup.txt
+1. Original fasta: CKY_BS90_kgf.de.fasta
+2. Trimmed alignment: CKY_BS90_kgf.de.sina.trim5.fasta
+3. Tree file: S-6WHuekat59NLLehFrMWA_newick.txt.mdf
+4. Assignment of subgroup: sseqs_subgroup.txt
 
 Methods to make 16S rRNA gene tree of Bathyarchaeota
 
